@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>TheEvent - Bootstrap Event Template</title>
+    <title>Elang Surya Labs</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -39,7 +39,7 @@
                 <div id="logo" class="pull-left">
                     <!-- Uncomment below if you prefer to use a text logo -->
                     <!-- <h1><a href="#main">C<span>o</span>nf</a></h1>-->
-                    <a href="#intro" class="scrollto"><img src="<?php echo base_url() ?>assets/TheEvent/img/logo.png" alt="" title=""></a>
+                    <a href="<?php echo base_url() ?>" class="scrollto"><img src="<?php echo base_url() ?>assets/TheEvent/img/logo.png" alt="" title=""></a>
                 </div>
 
             <nav id="nav-menu-container">
