@@ -956,58 +956,58 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
-# Hotels Section
+# Blogs Section
 --------------------------------------------------------------*/
 
-#hotels {
+#blogs {
   padding: 60px 0;
 }
 
-#hotels .hotel {
+#blogs .hotel {
   border: 1px solid #e0e5fa;
   background: #fff;
   margin-bottom: 30px;
 }
 
-#hotels .hotel:hover .hotel-img img {
+#blogs .hotel:hover .hotel-img img {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
 
-#hotels .hotel-img {
+#blogs .hotel-img {
   overflow: hidden;
   margin-bottom: 15px;
 }
 
-#hotels .hotel-img img {
+#blogs .hotel-img img {
   transition: 0.3s ease-in-out;
 }
 
-#hotels h3 {
+#blogs h3 {
   font-weight: 600;
   font-size: 20px;
   margin-bottom: 5px;
   padding: 0 20px;
 }
 
-#hotels a {
+#blogs a {
   color: #152b79;
 }
 
-#hotels a:hover {
+#blogs a:hover {
   color: #f82249;
 }
 
-#hotels .stars {
+#blogs .stars {
   padding: 0 20px;
   margin-bottom: 5px;
 }
 
-#hotels .stars i {
+#blogs .stars i {
   color: #ffc31d;
 }
 
-#hotels p {
+#blogs p {
   padding: 0 20px;
   margin-bottom: 20px;
   color: #060c22;
